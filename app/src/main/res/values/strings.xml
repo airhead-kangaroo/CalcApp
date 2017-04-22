@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalcApp</string>
+    <string name="firstNum">1つ目の数字</string>
+    <string name="secondNum">2つ目の数字</string>
+    <string name="plus">＋</string>
+    <string name="minus">－</string>
+    <string name="multiple">×</string>
+    <string name="divine">÷</string>
+</resources>
